@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fa4813-4a33-4d68-8740-25d5a09ddf06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PT-W1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week01VariablesAndOperationsLab.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5fa4813-4a33-4d68-8740-25d5a09ddf06" name="Changes" comment="Week 1 Lab Commit to Git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,11 +66,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677940080370</updated>
-      <workItem from="1677940082418" duration="3741000" />
+      <workItem from="1677940082418" duration="4067000" />
     </task>
+    <task id="LOCAL-00001" summary="Week 1 Lab Commit to Git">
+      <created>1677944586815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677944586815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 1 Lab Commit to Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 1 Lab Commit to Git" />
   </component>
 </project>
